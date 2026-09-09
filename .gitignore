@@ -1,0 +1,16 @@
+.vercel
+node_modules
+dist
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
+src/assets/cellar-hero.png
+src/assets/sommelier.png
+src/assets/riesling-product.png
+src/assets/riesling-product.jpg
+src/assets/brunello-product.png
+src/assets/pinot-product.png
+src/assets/champagne-product.png
+src/assets/water-product.png
